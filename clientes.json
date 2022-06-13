@@ -1,0 +1,50 @@
+[
+    {
+        "bairro": "Alvorada",
+        "cep": 38465000,
+        "cidade": "Arapor\u00e3",
+        "codigo": 4,
+        "complemento": "",
+        "endereco": "Rua Abilio Ferreira Borges",
+        "estado": "MG",
+        "nome": "Adair Honorato Fraga",
+        "numero": 38,
+        "telefone": "34 999669087"
+    },
+    {
+        "bairro": "Alvorada",
+        "cep": 38465000,
+        "cidade": "Arapor\u00e3",
+        "codigo": 5,
+        "complemento": "",
+        "endereco": "Rua Abilio Ferreira Borges",
+        "estado": "MG",
+        "nome": "Adair Honorato Fraga 2",
+        "numero": 38,
+        "telefone": "34 999669087"
+    },
+    {
+        "bairro": "Alto do Ipiranga",
+        "cep": 14055100,
+        "cidade": "Ribeir\u00e3o Preto",
+        "codigo": 3,
+        "complemento": "AP 43",
+        "endereco": "Rua Japur\u00e1",
+        "estado": "SP",
+        "nome": "Gabriela Duarte de Oliveira",
+        "numero": 1285,
+        "telefone": "16 999926840"
+    },
+    {
+        "bairro": "Alvorada",
+        "cep": 38465000,
+        "cidade": "Arapor\u00e3",
+        "codigo": 1,
+        "complemento": "",
+        "endereco": "Rua Abilio Ferreira Borges",
+        "estado": "MG",
+        "nome": "Ricardo Duarte de Oliveira",
+        "numero": 38,
+        "telefone": "34 999669087"
+    }
+]

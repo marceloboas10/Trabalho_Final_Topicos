@@ -1,0 +1,26 @@
+[
+    {
+        "bairro": "1408",
+        "cep": 14055600,
+        "cidade": "14055600",
+        "codigo": 1,
+        "complemento": "Rua Maranh\u00e3o",
+        "endereco": "Rua Maranh\u00e3o",
+        "estado": "SP",
+        "nome": "LRTech Informatica e Telefonia",
+        "numero": "casa 1",
+        "telefone": "16 39632536"
+    },
+    {
+        "bairro": "1408",
+        "cep": 14055600,
+        "cidade": "14055600",
+        "codigo": 2,
+        "complemento": "Rua Maranh\u00e3o",
+        "endereco": "Rua Maranh\u00e3o",
+        "estado": "SP",
+        "nome": "LRTech Informatica e Telefonia",
+        "numero": "casa 1",
+        "telefone": "16 39632536"
+    }
+]

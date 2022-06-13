@@ -1,0 +1,13 @@
+[
+    {
+        "codfornecedor": "010111",
+        "codigo": 1,
+        "estoque": 20,
+        "fabricante": "Solis",
+        "marca": "Solis",
+        "modelo": "4G",
+        "produto": "Inversor Solis 4G 3Kwp",
+        "subtipo": "3Kwp",
+        "tipo": "Inversor"
+    }
+]
